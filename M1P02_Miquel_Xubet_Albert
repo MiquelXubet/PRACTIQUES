@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="Description" content="Curso de Html y Css" />
+    <meta name="Keywords" content="HTML, CSS" />
+    <title>Práctica2</title>
+  </head>
+  <body>
+    <header>
+      <h1>CURSO DE HTML y CSS</h1>
+    </header>
+    <div>
+      <p>
+        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Delectus iure
+        odio aperiam placeat! Ducimus sequi, eius possimus accusamus quis
+        blanditiis nulla inventore, facilis ipsum dignissimos nesciunt enim
+        quasi iste. Animi.
+      </p>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus
+        exercitationem sit facere similique alias eos veniam sapiente doloremque
+        voluptatem expedita?
+      </p>
+      <p>
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aliquid nulla
+        doloremque laudantium deserunt earum repudiandae! Asperiores atque
+        ducimus iure enim, dolorem facere eaque labore necessitatibus autem
+        magni officiis laborum illo.
+      </p>
+    </div>
+    <footer>
+      <p>Lorem ipsum dolor sit amet.</p>
+      <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
+      <p>Lorem ipsum dolor sit amet consectetur.</p>
+    </footer>
+  </body>
+</html>

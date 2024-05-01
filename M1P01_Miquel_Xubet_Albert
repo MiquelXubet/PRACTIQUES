@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Práctica1</title>
+  </head>
+  <body>
+    <h1>MIQUEL XUBET ALBERT</h1>
+    <h2>MIS AFICIONES</h2>
+    <p>
+      Futbol Sala: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      Itaque facilis officiis, eum dicta perspiciatis soluta sint. Adipisci
+      inventore accusantium fugit, ipsam delectus perspiciatis non quasi,
+      maiores dolorem deleniti numquam nesciunt!
+    </p>
+    <p>
+      Lectura: Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sint
+      sit reprehenderit ex quibusdam quaerat nesciunt, magnam explicabo. Iure,
+      earum ipsam. Nihil doloribus nisi molestias! Voluptatem!
+    </p>
+    <p>
+      Naturaleza: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      Molestiae voluptatibus consequuntur autem facere earum, omnis suscipit
+      enim quo amet voluptates soluta! Nihil veniam est, illum voluptatibus
+      recusandae quibusdam amet corporis mollitia quod, sequi, vel nostrum
+      inventore et numquam veritatis perferendis!
+    </p>
+  </body>
+</html>

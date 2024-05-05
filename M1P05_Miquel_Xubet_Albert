@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Práctica 5</title>
+  </head>
+  <body>
+    <header><h2>Encabezado de segundo nivel y subrayado</h2></header>
+    <p>
+      <b
+        >Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt
+        recusandae obcaecati atque nam et aliquid neque ab adipisci animi ipsam
+        dolorum sit porro, vel modi velit saepe incidunt quas tempora!</b
+      >
+    </p>
+    <p>
+      <i>
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quam nisi
+        eaque culpa, quisquam autem rem exercitationem possimus laboriosam minus
+        delectus natus quaerat veritatis facere recusandae odio eligendi optio
+        iste vitae.</i
+      >
+    </p>
+    <p>
+      <em
+        ><strong
+          >Lorem ipsum dolor sit amet consectetur, adipisicing elit. Modi
+          deleniti est, odit sapiente quae nostrum ipsum numquam laborum amet,
+          ea distinctio. Quaerat hic tempore illo incidunt alias? Tenetur, error
+          exercitationem!
+        </strong></em
+      >
+    </p>
+    <p>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate illum
+      tempora, praesentium ea perspiciatis
+      <sup
+        >possimus maiores natus vel itaque quam rerum minus minima modi suscipit
+        distinctio nemo illo facilis dolor?</sup
+      >
+    </p>
+    <p>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus
+      expedita eos vel dolores?
+      <sub
+        >Recusandae doloribus quisquam magni ab vel veritatis distinctio,
+        dolorum error commodi et a tempora ratione rem voluptates?</sub
+      >
+    </p>
+    <footer><small>Copiright 2024</small></footer>
+  </body>
+</html>

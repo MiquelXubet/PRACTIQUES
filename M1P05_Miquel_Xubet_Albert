@@ -6,7 +6,9 @@
     <title>Práctica 5</title>
   </head>
   <body>
-    <header><h2>Encabezado de segundo nivel y subrayado</h2></header>
+    <header>
+      <h2><u>Encabezado de segundo nivel y subrayado</u></h2>
+    </header>
     <p>
       <b
         >Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
   <head>
     <meta charset="UTF-8" />
     <meta name="Description" content="Curso de Html y Css" />
@@ -62,10 +62,10 @@
         </p>
       </article>
     </aside>
-    <footer>
-      <p>Contacto</p>
-      <p>Dirección</p>
-      <p>Teléfono</p>
-    </footer>
   </body>
+  <footer>
+    <p>Contacto</p>
+    <p>Dirección</p>
+    <p>Teléfono</p>
+  </footer>
 </html>

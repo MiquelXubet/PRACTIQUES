@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Práctica 11</title>
+  </head>
+  <body>
+    <form action="" method="post" enctype="application/x-www-form-urlencoded">
+      <fieldset>
+        <legend>Registro de Usuarios</legend>
+        Nombre: <input type="text" required /> <br />
+        Género: <input type="radio" name="genero" value="masculino" />Masculino
+        <input type="radio" name="genero" value="femenino" />Femenino <br />
+        Fecha Nacimiento: <input type="date" /><br />
+        Email: <input type="email" required /> <br />
+        Contraseña: <input type="password" required /><br />
+        Número de asignaturas matriculadas:
+        <input type="number" min="1" max="15" /> <br />
+        Curso matriculado:
+        <select>
+          <option value="Curso">Curso Front End</option>
+          <option value="Curso">Curso Back End</option>
+          <option value="Curso">Curso Full Stack</option>
+          <option value="Curso">Curso Data Science</option>
+        </select>
+        <br />
+        <input type="checkbox" />Acepto términos y condiciones <br />
+        <button type="submit">Enviar</button>
+      </fieldset>
+    </form>
+  </body>
+</html>
